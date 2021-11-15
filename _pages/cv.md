@@ -11,25 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Marine engineering, HUST, 2013
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Naval Architecture and Ocean Engineering (Acoustics Engineering), Huazhong University of Science and Technology (HUST), 2013
+* Ph.D in HUST/Washington State University, 2018 (Supervisor: Prof. Philip L. MARSTON/Wei LI)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Dec. 2018 - present: Postdoc
+  * CNRS UMR8520 IEMN
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Michael BAUDOIN
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
+* Theoretical, numerical and experimental methods
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
