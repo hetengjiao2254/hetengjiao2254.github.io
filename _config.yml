@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Zhixiong GONG"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a postdoc at CNRS UMR8520 IEMN."
+  location         : "France"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=08PwMK8AAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "zhixiong.gong@iemn.fr"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Zhixiong-Gong-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "zhixiong_gong"
   vine             :
   weibo            :
   xing             :
