@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. / Mr."
+title                    : "AcousticsX"
 title_separator          : "-"
 name                     : &name "Zhixiong GONG"
 description              : &description "personal description"
