@@ -51,4 +51,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for more than 40 journal papers including PRE, JASA, JSV, Ultrasound, xxx
+* Associate member of ASA since 2017
+* Member of IEEE UFFC, 2021 
