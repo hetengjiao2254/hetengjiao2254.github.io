@@ -1,10 +1,10 @@
 ---
 title: "[21] Three-dimensional trapping and assembly of small particles with synchronized spherical acoustical vortices"
 collection: publications
-#permalink: https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.11.064022
+permalink: https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.064002
 excerpt: '<u>Brief description: xxx.</u>'
-date: 2020-06-16
+date: 2020-10-23
 venue: 'Physical Review Applied'
-paperurl: 'https://github.com/ZhixiongGONG/AcousticsX.com/blob/eb487ed05a4f6504e8225f3c211aa601dfd61e8b/files/Journal_14_2020PRApplied_3DAxialDisplacement.pdf'
+paperurl: 'https://github.com/ZhixiongGONG/AcousticsX.com/blob/03509e254ab3617bf0edb2403af8250c17e034fd/files/Journal_12_2020PRApplied_3DAssembly.pdf'
 citation: '<b>Z. Gong</b>, M. Baudoin*. Three-dimensional trapping and assembly of small particles with synchronized spherical acoustical vortices. <i>Physical Review Applied</i> 14, 064002, (2020).'
 ---
