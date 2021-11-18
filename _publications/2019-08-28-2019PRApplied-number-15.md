@@ -5,6 +5,6 @@ collection: publications
 excerpt: '<u>Brief description: xxx.</u>'
 date: 2019-06-16
 venue: 'Physical Review Applied'
-paperurl: 'https://github.com/ZhixiongGONG/AcousticsX.com/blob/4236f4866d5377543662d85cbfd104a569ca5a7f/files/Journal_C07_2018IJCM.pdf'
+paperurl: 'https://github.com/ZhixiongGONG/AcousticsX.com/blob/98f8366f976f3b9a1da81b3979fe20c5dd592253/files/Journal_08_2019PRApplied_TorqueReversal.pdf'
 citation: '<b>Z. Gong</b>, P.L. Marston, W. Li*. Resonance scattering of an arbitrary Bessel beam by a spherical object. <i>Physical Review Applied</i> 11, 064022, (2019).'
 ---
