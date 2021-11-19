@@ -101,10 +101,10 @@ Teaching
 
 Useful links (Asscociations and scholars):
 ======
-**Association**
+**Association, Groups, and/or scholars**
 * [Henrik Bruus Group](https://www.staff.dtu.dk/bruus/researchgroup)
-* Associate member of ASA since 2017
-* Member of IEEE UFFC, 2021 
-**Groups and/or scholars**
-* Tony Huang
+* [‪Jürg Dual‬ Group](https://expdyn.ethz.ch/)
+* [‪Peer Fischer‬ Group](https://pf.is.mpg.de/)
+
+
 
