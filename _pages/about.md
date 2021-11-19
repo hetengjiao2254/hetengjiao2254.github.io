@@ -15,5 +15,5 @@ What do I do?
 My present project aims at developing versatile acoustical tweezers (ATs). My research interests includes <u>particle manipulations</u>, <u>acoustic imaging</u>, and <u>novel numerical methods</u>.
 
 For more info
-------
+======
 Contact me @ <u>zhixiong.gong@iemn.fr</u>.
