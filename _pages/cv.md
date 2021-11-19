@@ -47,7 +47,7 @@ Service and leadership
 Publications
 ======
 * <b>2021</b>
- * <b>[A24]</b> Z. Gong, M. Baudoin*, Three-Dimensional Trapping and Dynamic Axial Manipulation with Frequency-Tuned Spiraling Acoustical Tweezers: A Theoretical Study, Phys. Rev. Appl (IF: 4.2), 16: 024034 (2021) [(pdf)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/7dd45326c85e91d7a9f230ce825a79794b561679/files/Journal_14_2020PRApplied_3DAxialDisplacement.pdf)
+ ** <b>[A24]</b> Z. Gong, M. Baudoin*, Three-Dimensional Trapping and Dynamic Axial Manipulation with Frequency-Tuned Spiraling Acoustical Tweezers: A Theoretical Study, Phys. Rev. Appl (IF: 4.2), 16: 024034 (2021) [(pdf)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/7dd45326c85e91d7a9f230ce825a79794b561679/files/Journal_14_2020PRApplied_3DAxialDisplacement.pdf)
  * <b>[A23] Z. Gong*</b>, M. Baudoin, Equivalence between angular spectrum-based and multipole expansion-based formulas of the acoustic radiation force and torque, J. Acoust. Soc. Am. 149(5): 3469-3482 (2021)
  * <b>[A22]</b> Q. Wang, A. Riaud*, J. Zhou, <b>Z. Gong</b> and M. Baudoin*, Acoustic radiation force on small spheres due to transient acoustic fields, Phys. Rev. Appl (IF: 4.2), 15: 044034 (2021)
 
