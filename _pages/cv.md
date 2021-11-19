@@ -46,12 +46,12 @@ Service and leadership
   
 Publications
 ======
-2021
-[A24] Z. Gong, M. Baudoin*, Three-Dimensional Trapping and Dynamic Axial Manipulation with Frequency-Tuned Spiraling Acoustical Tweezers: A Theoretical Study, Phys. Rev. Appl (IF: 4.2), 16: 024034 (2021) [(pdf)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/7dd45326c85e91d7a9f230ce825a79794b561679/files/Journal_14_2020PRApplied_3DAxialDisplacement.pdf)
-[A23] Z. Gong*, M. Baudoin, Equivalence between angular spectrum-based and multipole expansion-based formulas of the acoustic radiation force and torque, J. Acoust. Soc. Am. 149(5): 3469-3482 (2021)
-[A22] Q. Wang, A. Riaud*, J. Zhou, Z. Gong and M. Baudoin*, Acoustic radiation force on small spheres due to transient acoustic fields, Phys. Rev. Appl (IF: 4.2), 15: 044034 (2021)
+* <b>2021</b>
+** [A24] Z. Gong, M. Baudoin*, Three-Dimensional Trapping and Dynamic Axial Manipulation with Frequency-Tuned Spiraling Acoustical Tweezers: A Theoretical Study, Phys. Rev. Appl (IF: 4.2), 16: 024034 (2021) [(pdf)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/7dd45326c85e91d7a9f230ce825a79794b561679/files/Journal_14_2020PRApplied_3DAxialDisplacement.pdf)
+** [A23] Z. Gong*, M. Baudoin, Equivalence between angular spectrum-based and multipole expansion-based formulas of the acoustic radiation force and torque, J. Acoust. Soc. Am. 149(5): 3469-3482 (2021)
+** [A22] Q. Wang, A. Riaud*, J. Zhou, Z. Gong and M. Baudoin*, Acoustic radiation force on small spheres due to transient acoustic fields, Phys. Rev. Appl (IF: 4.2), 15: 044034 (2021)
 
-2020
+* <b>2020</b>
 [A21] Z. Gong, M. Baudoin*, Three-dimensional trapping and assembly of small particles with synchronized spherical acoustical vortices, Phys. Rev. Appl (IF: 4.2), 14: 064002 (2020)
 [A20] Z. Gong*, M. Baudoin, Acoustic radiation torque on a particle in a fluid:  an angular spectrum based compact expression, J. Acoust. Soc. Am. (IF: 1.8), 148(5): 3131-3140 (2020)
 [A19] M. Baudoin*, J.-L. Thomas, R.A. Sahely, J.C. Gerbedoen, Z. Gong, A. Sivery, O. Bou Matar, N. Smagin, P. Favreau, A. Vlandas*, Spatialy selective manipulation of cells with single beam acoustical tweezers, Nature Commu. (IF: 12.1), 11: 4244 (2020)
