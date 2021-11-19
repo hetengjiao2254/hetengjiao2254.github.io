@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Gong.
+My name is Zhixiong GONG (龚志雄)， born on January 27th, 1991, Xiantao Hubei Province, P.R. China.
 
 What do I do?
 ======
