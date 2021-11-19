@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Naval Architecture and Ocean Engineering (Acoustics Engineering), [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/), 2013
-* Ph.D in HUST/[Washington State University](https://wsu.edu/), 2018 (Supervisor: Prof. [Wei LI](http://english.ch.hust.edu.cn/info/1043/1218.htm) / Prof. [Philip L. MARSTON](https://physics.wsu.edu/people/faculty/p-marston/)
+* Ph.D in Acoustics Engineering, HUST / in Physical Acoustics [Washington State University](https://wsu.edu/), 2018 (Supervisor: Prof. [Wei LI](http://english.ch.hust.edu.cn/info/1043/1218.htm) / Prof. [Philip L. MARSTON](https://physics.wsu.edu/people/faculty/p-marston/)
 
 Work experience
 ======
