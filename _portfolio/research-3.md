@@ -1,5 +1,5 @@
 ---
-title: "•	Advanced finite element method (FEM). "
+title: "	Novel numerical methods "
 excerpt: " We proposed to use the gradient smoothing technique to improve the accuracy and efficiency of acoustic problems in the traditional FEM which can significantly decrease the numerical dispersion error. These techniques have the potential to implant into the FEM components in commercial software such as COMSOL.<br/><img src='/images/Gong_JASA_EL.png'>"
 collection: portfolio
 ---
