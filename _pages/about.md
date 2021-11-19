@@ -19,4 +19,4 @@ Parent.
 
 For more info
 ------
-Contact me @ <u>zhixiong.gong@iemn.fr<\u>.
+Contact me @ <u>zhixiong.gong@iemn.fr</u>.
