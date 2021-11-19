@@ -48,7 +48,10 @@ Service and leadership
 
 Useful links (Asscociations and scholars):
 ======
+**Association**
 * [Henrik Bruus](https://www.staff.dtu.dk/bruus/researchgroup)
 * Associate member of ASA since 2017
 * Member of IEEE UFFC, 2021 
+**Groups and/or scholars**
+* Tony Huang
 
