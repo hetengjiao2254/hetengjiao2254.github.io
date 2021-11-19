@@ -17,20 +17,11 @@ Education
 Work experience
 ======
 * Dec. 2018 - present: Postdoc
-  * CNRS UMR8520 IEMN
+  * CNRS UMR8520 [IEMN](https://www.iemn.fr/)
   * Duties included: To develop versatile 3D acoustical tweezers
   * Supervisor: Prof. [Michael BAUDOIN](http://films-lab.univ-lille1.fr/michael/michael/Home.html)
 
   
-Skills
-======
-* Theoretical, numerical and experimental methods
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
