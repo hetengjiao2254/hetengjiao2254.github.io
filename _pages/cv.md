@@ -21,26 +21,6 @@ Work experience
   * Duties included: To develop versatile 3D acoustical tweezers
   * Supervisor: Prof. [Michael BAUDOIN](http://films-lab.univ-lille1.fr/michael/michael/Home.html)
 
-  
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
 Funding involved
 ======
 During my Ph.D., I get involved with several projects including the topics of acoustics and engineering mechanics as a Student leader (+5) or participant (+2) with the total funding of 373K€.
@@ -63,6 +43,24 @@ Service and leadership
   * •	•	Engineering (Ocean Enginnering; Micromachines; Sensors, Applied Science, Remote Sensing) …
 * Associate member of ASA since 2017
 * Member of IEEE UFFC, 2021 
+  
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Useful links (Asscociations and scholars):
 ======
