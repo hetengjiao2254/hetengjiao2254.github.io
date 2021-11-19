@@ -47,22 +47,22 @@ Service and leadership
 Publications
 ======
 * <b>2021</b>
- ** <b>[A24]</b> Z. Gong, M. Baudoin*, Three-Dimensional Trapping and Dynamic Axial Manipulation with Frequency-Tuned Spiraling Acoustical Tweezers: A Theoretical Study, Phys. Rev. Appl (IF: 4.2), 16: 024034 (2021) [(pdf)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/7dd45326c85e91d7a9f230ce825a79794b561679/files/Journal_14_2020PRApplied_3DAxialDisplacement.pdf)
- * <b>[A23] Z. Gong*</b>, M. Baudoin, Equivalence between angular spectrum-based and multipole expansion-based formulas of the acoustic radiation force and torque, J. Acoust. Soc. Am. 149(5): 3469-3482 (2021)
- * <b>[A22]</b> Q. Wang, A. Riaud*, J. Zhou, <b>Z. Gong</b> and M. Baudoin*, Acoustic radiation force on small spheres due to transient acoustic fields, Phys. Rev. Appl (IF: 4.2), 15: 044034 (2021)
+ ** <b>[A24]</b> Z. Gong, M. Baudoin*, Three-Dimensional Trapping and Dynamic Axial Manipulation with Frequency-Tuned Spiraling Acoustical Tweezers: A Theoretical Study, Phys. Rev. Appl (IF: 4.2), 16: 024034 (2021). [(Download)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/7dd45326c85e91d7a9f230ce825a79794b561679/files/Journal_14_2020PRApplied_3DAxialDisplacement.pdf)
+ * <b>[A23] Z. Gong*</b>, M. Baudoin, Equivalence between angular spectrum-based and multipole expansion-based formulas of the acoustic radiation force and torque, J. Acoust. Soc. Am. 149(5): 3469-3482 (2021). [(Download)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/6af5add20652a80ecfabb45f2b983a36a361b3d3/files/Journal_13_2021JASA_Equivalence.pdf)
+ * <b>[A22]</b> Q. Wang, A. Riaud*, J. Zhou, <b>Z. Gong</b> and M. Baudoin*, Acoustic radiation force on small spheres due to transient acoustic fields, Phys. Rev. Appl (IF: 4.2), 15: 044034 (2021). [(Download)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/6af5add20652a80ecfabb45f2b983a36a361b3d3/files/Journal_C10_2021PRApplied.pdf)
 
 * <b>2020</b>
-[A21] Z. Gong, M. Baudoin*, Three-dimensional trapping and assembly of small particles with synchronized spherical acoustical vortices, Phys. Rev. Appl (IF: 4.2), 14: 064002 (2020)
+[A21] Z. Gong, M. Baudoin*, Three-dimensional trapping and assembly of small particles with synchronized spherical acoustical vortices, Phys. Rev. Appl (IF: 4.2), 14: 064002 (2020). [(Download)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/6af5add20652a80ecfabb45f2b983a36a361b3d3/files/Journal_12_2020PRApplied_3DAssembly.pdf)
 
-[A20] Z. Gong*, M. Baudoin, Acoustic radiation torque on a particle in a fluid:  an angular spectrum based compact expression, J. Acoust. Soc. Am. (IF: 1.8), 148(5): 3131-3140 (2020)
+[A20] Z. Gong*, M. Baudoin, Acoustic radiation torque on a particle in a fluid:  an angular spectrum based compact expression, J. Acoust. Soc. Am. (IF: 1.8), 148(5): 3131-3140 (2020). [(Download)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/6af5add20652a80ecfabb45f2b983a36a361b3d3/files/Journal_11_2020JASA_ART.pdf)
 
-[A19] M. Baudoin*, J.-L. Thomas, R.A. Sahely, J.C. Gerbedoen, Z. Gong, A. Sivery, O. Bou Matar, N. Smagin, P. Favreau, A. Vlandas*, Spatialy selective manipulation of cells with single beam acoustical tweezers, Nature Commu. (IF: 12.1), 11: 4244 (2020)
+[A19] M. Baudoin*, J.-L. Thomas, R.A. Sahely, J.C. Gerbedoen, Z. Gong, A. Sivery, O. Bou Matar, N. Smagin, P. Favreau, A. Vlandas*, Spatialy selective manipulation of cells with single beam acoustical tweezers, Nature Commu. (IF: 12.1), 11: 4244 (2020). [(Download)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/6af5add20652a80ecfabb45f2b983a36a361b3d3/files/Journal_C08_2020Nature%20Commun.pdf)
 
-[A18] Y. Chai*, Z. Gong, Wei Li, Y. Zhang*, Analysis of transient wave propagation in inhomogeneous media using edge-based gradient smoothing technique and bathe time integration method, Eng. Anal. Bound. Elem. (IF: 2.2), 120: 211–222 (2020)
+[A18] Y. Chai*, Z. Gong, Wei Li, Y. Zhang*, Analysis of transient wave propagation in inhomogeneous media using edge-based gradient smoothing technique and bathe time integration method, Eng. Anal. Bound. Elem. (IF: 2.2), 120: 211–222 (2020). [(Download)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/6af5add20652a80ecfabb45f2b983a36a361b3d3/files/Journal_C09_2020EABE.pdf)
 
 * <b>2019</b>
-[A17] Z. Gong, M. Baudoin*, Particle assembly with synchronized acoustical tweezers, Phys. Rev. Appl (IF: 4.2), 12: 024045 (2019)
-[A16] Z. Gong, P.L. Marston, W. Li* , T-matrix evaluation of three-dimensional acoustic radiation forces on nonspherical objects in Bessel beams with arbitrary order and location, Phys. Rev. E (IF: 2.4), 99: 063004 (2019).
+[A17] Z. Gong, M. Baudoin*, Particle assembly with synchronized acoustical tweezers, Phys. Rev. Appl (IF: 4.2), 12: 024045 (2019). [(Download)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/6af5add20652a80ecfabb45f2b983a36a361b3d3/files/Journal_10_2019PRApplied_2DAssembly.pdf)
+[A16] Z. Gong, P.L. Marston, W. Li* , T-matrix evaluation of three-dimensional acoustic radiation forces on nonspherical objects in Bessel beams with arbitrary order and location, Phys. Rev. E (IF: 2.4), 99: 063004 (2019). [(Download)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/6af5add20652a80ecfabb45f2b983a36a361b3d3/files/Journal_07_2019PRE_ARFNonspherical.pdf)
 [A15] Z. Gong, P.L. Marston, W. Li* , Reversals of Acoustic Radiation Torque in Bessel Beams Using Theoretical and Numerical Implementations in Three Dimensions, Phys. Rev. Appl (IF: 4.2), 11: 064022 (2019). [(Download)]
 [A14] W. Li, Q. Gui, Z. Gong*, Resonance scattering of an arbitrary Bessel beam by a spherical object, IEEE UFFC (IF: 3.0), 66: 1364-1372 (2019). [(pdf)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/7b6793bb2c0772cf91cbed16f69685950263f1ed/files/Journal_09_2019IEEE%20TUFFC_RST.pdf)
 
