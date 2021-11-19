@@ -1,5 +1,5 @@
 ---
-title: "•	Acoustic scattering and inversed imaging technique at macro-scales. "
+title: "	Acoustic scattering and imaging "
 excerpt: "We aim at developing a versatile home-made toolbox to investigate the scattering physics of general shapes and different materials (e.g., elastic, bubble, droplet, …) and the inversed imaging technique based on the semi-analytical T-matrix method. This project is related to application in the field of ocean acoustics.<br/><img src='/images/Gong_JASA_EL.png'>"
 collection: portfolio
 ---
