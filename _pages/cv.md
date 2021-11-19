@@ -111,6 +111,9 @@ Teaching
 Useful links (Asscociations and scholars):
 ======
 **Association, Groups, and/or scholars**
+* [the Acoustical Society of America](https://acousticalsociety.org/)
+* [中国声学学会 the Acoustical Society of China](https://www.aschina.org.cn/)
+* Acoustofluidics
 * [Henrik Bruus Group](https://www.staff.dtu.dk/bruus/researchgroup)
 * [‪Jürg Dual‬ Group](https://expdyn.ethz.ch/)
 * [‪Peer Fischer‬ Group](https://pf.is.mpg.de/)
