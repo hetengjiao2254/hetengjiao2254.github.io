@@ -52,9 +52,11 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+Invited talks (The invited speaker is underlined)
+[B3] <u><b>Z. Gong</b></u>, M. Baudion, Small particles assembly using cylindrical Bessel vortices in two dimension, 2019 International Congress on Ultrasonics, 3-6 September 2019, Bruges (Belgium).
+[B2] <u><b>Z. Gong</b></u>, W. Li, P.L. Marston, Potential of theoretical approach and T-matrix method for designing numerical acoustical tweezers toolbox,  The 175th Meeting of the Acoustical Society of America, 7-11 May 2018, Minneapolis (United States).
+[B1] <u><b>Z. Gong</b></u>, W. Li, Y. Chai, Y. Zhao, Forward scattering of an acoustical Bessel beam by rigid structures using T-matrix method, The 7th International Conference on Computational Methods, 1-4 August 2016, Berkeley (United States).
+
   
 Teaching
 ======
