@@ -37,21 +37,19 @@ Awards
 Service and leadership
 ======
 * Reviewer for more than 40 journal papers including PRE, JASA, JSV, Ultrasound, xxx
-  * 	Physics (Phy. Rev. E, J. Appl. Phys., Appl. Phys. Lett., Physics of Fluids, 中国物理B, 物理学报, Geophysics); 
-  * 	Acoustics (JASA, Ultrasonics, J. Sound Vib., Shock Vib.Wave Motion); 
-  * 	Modelling and computations (Applied Mathematics and Computation; Applied Mathematical Modelling; Engineering Analysis with Boundary Elements);
-  * 	Engineering (Ocean Enginnering; Micromachines; Sensors, Applied Science, Remote Sensing) …
+  * 	<b>Physics</b> (Phy. Rev. E, J. Appl. Phys., Appl. Phys. Lett., Physics of Fluids, 中国物理B, 物理学报, Geophysics); 
+  * 	<b>Acoustics</b> (JASA, Ultrasonics, J. Sound Vib., Shock Vib.Wave Motion); 
+  * 	<b>Modelling and computations</b> (Applied Mathematics and Computation; Applied Mathematical Modelling; Engineering Analysis with Boundary Elements);
+  * 	<b>Engineering</b> (Ocean Enginnering; Micromachines; Sensors, Applied Science, Remote Sensing) …
 * Associate member of ASA since 2017
 * Member of IEEE UFFC, 2021 
   
 Publications
 ======
 * <b>2021</b>
- <b>[A24]</b> Z. Gong, M. Baudoin*, Three-Dimensional Trapping and Dynamic Axial Manipulation with Frequency-Tuned Spiraling Acoustical Tweezers: A Theoretical Study, Phys. Rev. Appl (IF: 4.2), 16: 024034 (2021) [(pdf)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/7dd45326c85e91d7a9f230ce825a79794b561679/files/Journal_14_2020PRApplied_3DAxialDisplacement.pdf)
-
-** [A23] Z. Gong*, M. Baudoin, Equivalence between angular spectrum-based and multipole expansion-based formulas of the acoustic radiation force and torque, J. Acoust. Soc. Am. 149(5): 3469-3482 (2021)
-
-** [A22] Q. Wang, A. Riaud*, J. Zhou, Z. Gong and M. Baudoin*, Acoustic radiation force on small spheres due to transient acoustic fields, Phys. Rev. Appl (IF: 4.2), 15: 044034 (2021)
+ * <b>[A24]</b> Z. Gong, M. Baudoin*, Three-Dimensional Trapping and Dynamic Axial Manipulation with Frequency-Tuned Spiraling Acoustical Tweezers: A Theoretical Study, Phys. Rev. Appl (IF: 4.2), 16: 024034 (2021) [(pdf)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/7dd45326c85e91d7a9f230ce825a79794b561679/files/Journal_14_2020PRApplied_3DAxialDisplacement.pdf)
+ * <b>[A23] Z. Gong*</b>, M. Baudoin, Equivalence between angular spectrum-based and multipole expansion-based formulas of the acoustic radiation force and torque, J. Acoust. Soc. Am. 149(5): 3469-3482 (2021)
+ * <b>[A22]</b> Q. Wang, A. Riaud*, J. Zhou, <b>Z. Gong</b> and M. Baudoin*, Acoustic radiation force on small spheres due to transient acoustic fields, Phys. Rev. Appl (IF: 4.2), 15: 044034 (2021)
 
 * <b>2020</b>
 [A21] Z. Gong, M. Baudoin*, Three-dimensional trapping and assembly of small particles with synchronized spherical acoustical vortices, Phys. Rev. Appl (IF: 4.2), 14: 064002 (2020)
