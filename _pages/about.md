@@ -12,7 +12,7 @@ My name is Zhixiong GONG (龚志雄), born on January 27<sup>th</sup>, 1991, [Xi
 
 What do I do?
 ======
-My present project aims at developing versatile acoustical tweezers (ATs). My research interests includes <u>particle manipulations</u>, <u>acoustic imaging</u>, and <u>novel numerical methods</u>.
+My present project aims at developing versatile acoustical tweezers (ATs). My research interests includes <b>acoustical tweezers</b>, <b>acoustic imaging</b>, and <b>novel numerical methods</b>.
 
 For more info
 ======
