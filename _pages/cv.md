@@ -39,13 +39,28 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
+Funding involved
+======
+During my Ph.D., I get involved with several projects including the topics of acoustics and engineering mechanics as a Student leader (+5) or participant (+2) with the total funding of 373K€.
+* 2020	ASA Early Career Meeting Support Award (By one of the main societies in acoustics)
+* 2017  China Scholarship Council (CSC) (to support me as a visiting scholar moving outside of China)
+* 2016	HUST Postgraduate Overseas Short-term Study Program Scholarship
+
+Awards
+======
+* 2020	ASA Early Career Meeting Support Award (By one of the main societies in acoustics)
+* 2017  China Scholarship Council (CSC) (to support me as a visiting scholar moving outside of China)
+* 2016	HUST Postgraduate Overseas Short-term Study Program Scholarship
+
 Service and leadership
 ======
 * Reviewer for more than 40 journal papers including PRE, JASA, JSV, Ultrasound, xxx
- **xxx
- **xxx
- **xxx
+  * •	Physics (Phy. Rev. E, J. Appl. Phys., Appl. Phys. Lett., Physics of Fluids, 中国物理B, 物理学报, Geophysics); 
+  * •	Acoustics (JASA, Ultrasonics, J. Sound Vib., Shock Vib.Wave Motion); 
+  * •	Modelling and computations (Applied Mathematics and Computation; Applied Mathematical Modelling; Engineering Analysis with Boundary Elements);
+  * •	•	Engineering (Ocean Enginnering; Micromachines; Sensors, Applied Science, Remote Sensing) …
 * Associate member of ASA since 2017
 * Member of IEEE UFFC, 2021 
 
