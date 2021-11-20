@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV](https://github.com/ZhixiongGONG/AcousticsX.com/blob/23c3c315e9e2ad0359b414c391a19a16d2d4d0b9/files/Thesis_Gong_2018.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -102,23 +102,4 @@ Invited talks (The invited speaker is <u>underlined</u>)
 * [B3] <u><b>Z. Gong</b></u>, M. Baudion, Small particles assembly using cylindrical Bessel vortices in two dimension, 2019 International Congress on Ultrasonics, 3-6 September 2019, Bruges (Belgium).
 * [B2] <u><b>Z. Gong</b></u>, W. Li, P.L. Marston, Potential of theoretical approach and T-matrix method for designing numerical acoustical tweezers toolbox,  The 175th Meeting of the Acoustical Society of America, 7-11 May 2018, Minneapolis (United States).
 * [B1] <u><b>Z. Gong</b></u>, W. Li, Y. Chai, Y. Zhao, Forward scattering of an acoustical Bessel beam by rigid structures using T-matrix method, The 7th International Conference on Computational Methods, 1-4 August 2016, Berkeley (United States).
-
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Useful links (Asscociations and scholars):
-======
-**Association, Groups, and/or scholars**
-* [the Acoustical Society of America](https://acousticalsociety.org/)
-* [中国声学学会 the Acoustical Society of China](https://www.aschina.org.cn/)
-* [Acoustofluidics society](https://www.acoustofluidics.net/about/acoustofluidics_society.html)
-* [Henrik Bruus Group](https://www.staff.dtu.dk/bruus/researchgroup)
-* [‪Jürg Dual‬ Group](https://expdyn.ethz.ch/)
-* [‪Peer Fischer‬ Group](https://pf.is.mpg.de/)
-
-
 
