@@ -1,7 +1,7 @@
 ---
 title: " Acoustic imaging "
 excerpt: "We use the acoustic information interadted with tragets to develop forward and inverse imaging techniques.<br/>
-<img src='../images/500x300.png'>"
+<img src='../images/foo-bar-identity-th.jpg'>"
 collection: portfolio
 ---
 
