@@ -18,3 +18,4 @@ Motto
 ======
 "Where your fear is, there your task is." ---<cite>Carl Jung</cite>
 
+<a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter7.stat.ovh/private/freecounterstat.php?c=ejf9n8yptpt5b2yygchkm5m1x5l17f8s" border="0" title="website counter" alt="website counter"></a>
