@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[CV](https://github.com/ZhixiongGONG/AcousticsX.com/blob/23c3c315e9e2ad0359b414c391a19a16d2d4d0b9/files/Thesis_Gong_2018.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
