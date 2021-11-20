@@ -36,7 +36,7 @@ Awards
 
 Service and leadership
 ======
-* •	More than 40 communications in peer-reviewed journals including
+* More than 40 communications in peer-reviewed journals including
   * 	<b>Physics</b> (Phy. Rev. E, J. Appl. Phys., Appl. Phys. Lett., Physics of Fluids, 中国物理B, 物理学报, Geophysics); 
   * 	<b>Acoustics</b> (JASA, Ultrasonics, J. Sound Vib., Wave Motion, Shock Vib.); 
   * 	<b>Modelling and computations</b> (Applied Mathematics and Computation; Applied Mathematical Modelling; Engineering Analysis with Boundary Elements);
