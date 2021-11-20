@@ -1,6 +1,6 @@
 ---
 title: " Acoustical tweezers "
-excerpt: "We use theoretical, numerical and experimental method to discover new physics and applications of acoustical tweezers.<br/>
+excerpt: "We use theoretical, numerical and experimental method to discover/study new physics and applications of acoustical tweezers.<br/>
 <img src='../images/500x300.png'>"
 collection: portfolio
 ---
