@@ -14,6 +14,7 @@ What do I do?
 ======
 My present project aims at developing versatile acoustical tweezers (ATs). My research interests includes <b>acoustical tweezers</b>, <b>acoustic imaging</b>, and <b>vibration and noise control</b>.
 
-For more info
+Motto
 ======
-Contact me @ <u>zhixiong.gong@iemn.fr</u>.
+"Where your fear is, there your task is." ---<cite>Carl Jung</cite>
+
