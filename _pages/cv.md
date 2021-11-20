@@ -23,12 +23,11 @@ Education
 <b>Supervisor</b>: Prof. [Wei LI](http://english.ch.hust.edu.cn/info/1043/1218.htm) / Prof. [Philip L. MARSTON](https://physics.wsu.edu/people/faculty/p-marston/) <br />
 <b>Thesis title</b>: [Study on acoustic scattering characteristics of objects in Bessel beams and the related radiation force and torque](https://github.com/ZhixiongGONG/AcousticsX.com/blob/23c3c315e9e2ad0359b414c391a19a16d2d4d0b9/files/Thesis_Gong_2018.pdf).
 
-Funding involved
+Funding
 ======
-During my Ph.D., I get involved with several projects including the topics of acoustics and engineering mechanics as a Student leader (+5) or participant (+2) with the total funding of 373K€.
-* 2020	ASA Early Career Meeting Support Award (By one of the main societies in acoustics)
-* 2017  China Scholarship Council (CSC) (to support me as a visiting scholar moving outside of China)
-* 2016	HUST Postgraduate Overseas Short-term Study Program Scholarship
+* I-SITE Talent project (107K€; Rank 1/5) which supports me to work as a postdoctoral fellow with Prof. [Michael Baudoin](http://films-lab.univ-lille1.fr/michael/michael/Home.html) and conduct experiments on acoustical tweezers.
+* During my Ph.D., I get involved with several projects including the topics of acoustics and engineering mechanics as a Student leader (+5) or participant (+2) with the total funding of 373K€.
+
 
 Awards
 ======
