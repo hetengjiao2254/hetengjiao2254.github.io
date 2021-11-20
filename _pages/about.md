@@ -18,4 +18,4 @@ Motto
 ======
 "Where your fear is, there your task is." ---<cite>Carl Jung</cite>
 
-<div id="sfcgts8c7lfb3qsn1pzym7lr4m8an987mjr"></div><script type="text/javascript" src="https://counter7.stat.ovh/private/counter.js?c=gts8c7lfb3qsn1pzym7lr4m8an987mjr&down=async" async></script><br><a href="https://www.freecounterstat.com">web counter</a><noscript><a href="https://www.freecounterstat.com" title="web counter"><img src="https://counter7.stat.ovh/private/freecounterstat.php?c=gts8c7lfb3qsn1pzym7lr4m8an987mjr" border="0" title="web counter" alt="web counter"></a></noscript>
+<div id="sfcfuqja59um66kyjysah911zwdp4nk463a"></div><script type="text/javascript" src="https://counter7.stat.ovh/private/counter.js?c=fuqja59um66kyjysah911zwdp4nk463a&down=async" async></script><br><a href="https://www.freecounterstat.com">website counter</a><noscript><a href="https://www.freecounterstat.com" title="website counter"><img src="https://counter7.stat.ovh/private/freecounterstat.php?c=fuqja59um66kyjysah911zwdp4nk463a" border="0" title="website counter" alt="website counter"></a></noscript>
