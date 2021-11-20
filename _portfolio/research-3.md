@@ -1,6 +1,6 @@
 ---
-title: "	Novel numerical methods "
-excerpt: " We proposed to use the gradient smoothing technique to improve the accuracy and efficiency of acoustic problems in the traditional FEM which can significantly decrease the numerical dispersion error. These techniques have the potential to implant into the FEM components in commercial software such as COMSOL.<br/><img src='/images/Gong_JASA_EL.png'>"
+title: " Vibration and Noise Control "
+excerpt: "In particular we developed recently some general theories of acoustic radiation force and torque for ideal or arbitrary acoustic fields on arbitrary particles which is the foundation of acoustical tweezer technique. The theory has been successfully used to predict the radiation force on a cell trapped by a focused vortex in a microsystem experiment.<br/><img src='/images/Gong_JASA_EL.png'>"
 collection: portfolio
 ---
 
