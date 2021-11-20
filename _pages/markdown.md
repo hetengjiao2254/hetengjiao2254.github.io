@@ -12,6 +12,5 @@ redirect_from:
 CNRS UMR8520 IEMN, AIMAN-FILMS Group
 Avenue Henri Poincaré
 59 652 Villeneuve d'Ascq Cedex, Lille, France
-Imperial College London, SW7 2AZ, London, France
 #Tel: +44 207 5943664
 Email: zhixiong.gong@iemn.fr
