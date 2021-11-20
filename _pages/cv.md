@@ -28,7 +28,6 @@ Funding
 * I-SITE Talent project (107K€; Rank 1/5) which supports me to work as a postdoctoral fellow with Prof. [Michael Baudoin](http://films-lab.univ-lille1.fr/michael/michael/Home.html) and conduct experiments on acoustical tweezers.
 * During my Ph.D., I get involved with several projects including the topics of acoustics and engineering mechanics as a Student leader (+5) or participant (+2) with the total funding of 373K€.
 
-
 Awards
 ======
 * 2020	ASA Early Career Meeting Support Award (By one of the main societies in acoustics)
@@ -37,7 +36,7 @@ Awards
 
 Service and leadership
 ======
-* Reviewer for more than 40 journal papers including PRE, JASA, JSV, Ultrasound, xxx
+* •	More than 40 communications in peer-reviewed journals including
   * 	<b>Physics</b> (Phy. Rev. E, J. Appl. Phys., Appl. Phys. Lett., Physics of Fluids, 中国物理B, 物理学报, Geophysics); 
   * 	<b>Acoustics</b> (JASA, Ultrasonics, J. Sound Vib., Shock Vib.Wave Motion); 
   * 	<b>Modelling and computations</b> (Applied Mathematics and Computation; Applied Mathematical Modelling; Engineering Analysis with Boundary Elements);
