@@ -84,7 +84,7 @@ Publications
   <b>[01]</b> W. Li, J. Li, <b>Z. Gong*</b>, Study on underwater acoustic scattering of a Bessel beam by rigid objects with arbitrary shapes, Acta. Phys. Sin. (IF: 0.7), 64: 154305 (2015). [(Download)](https://github.com/ZhixiongGONG/AcousticsX.com/blob/97b5665ef2e6ca6618018971a4f8070f8a1541ee/files/Journal_01_2015APS_BesselSpheroid.pdf)
 
   
-Invited Talks in international conferences
+Invited talks in international conferences
 ======
  (The invited speaker is <u>underlined</u>)
 * [B3] <u><b>Z. Gong</b></u>, M. Baudion, Small particles assembly using cylindrical Bessel vortices in two dimension, 2019 International Congress on Ultrasonics, 3-6 September 2019, Bruges (Belgium).
