@@ -1,7 +1,7 @@
 ---
 title: " Acoustic imaging "
 excerpt: "We use the acoustic information interacted with targets to develop forward and inverse imaging techniques.<br/>
-<img src='../images/foo-bar-identity-th.jpg'>"
+<center><img src='../images/foo-bar-identity-th.jpg'>"</center>
 collection: portfolio
 ---
 
