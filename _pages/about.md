@@ -16,7 +16,7 @@ My present project aims at developing versatile acoustical tweezers (ATs). My re
 
 Motto
 ======
-"Where your fear is, there your task is." ---<cite>Carl Jung</cite>
+<center>"Where your fear is, there your task is." ---<cite>Carl Jung</cite></center>
 
 
 
