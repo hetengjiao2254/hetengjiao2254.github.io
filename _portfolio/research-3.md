@@ -5,4 +5,4 @@ excerpt: "We try to use numerical and experimental methods to improve the acoust
 collection: portfolio
 ---
 
-A more quieter environment is necessary for our human beings and also ocean animals. 
+A quieter environment is necessary for our human beings and also ocean animals. 
