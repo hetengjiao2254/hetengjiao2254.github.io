@@ -6,5 +6,5 @@ excerpt: '[Download](https://github.com/ZhixiongGONG/AcousticsX.com/blob/39b96f3
 date: 2021-08-20
 venue: 'Physical Review Applied'
 paperurl: ''
-citation: '<b>Z. Gong</b>, M. Baudoin#. Three-Dimensional Trapping and Dynamic Axial Manipulation with Frequency-Tuned Spiraling Acoustical Tweezers: A Theoretical Study. <i>Physical Review Applied</i> 16, 024034, (2021).(https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.024034)'
+citation: '<b>Z. Gong</b>, M. Baudoin*. Three-Dimensional Trapping and Dynamic Axial Manipulation with Frequency-Tuned Spiraling Acoustical Tweezers: A Theoretical Study. <i>Physical Review Applied</i> 16, 024034, (2021).(https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.16.024034)'
 ---
