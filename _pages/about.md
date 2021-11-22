@@ -19,7 +19,7 @@ Motto
 <center>"Where your fear is, there your task is." ---<cite>Carl Jung</cite></center>
 
 
-
+<p></p>
 
 
 <a href="https://www.freecounterstat.com" title="page counter"><img src="https://counter7.stat.ovh/private/freecounterstat.php?c=hfjftcg7cyeq3unurnue315jmxg6kwp6" border="0" title="page counter" alt="page counter"></a>
