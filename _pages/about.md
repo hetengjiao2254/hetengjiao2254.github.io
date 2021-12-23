@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhixiong GONG (龚志雄), born In January 1991, [Xiantao City](https://en.wikipedia.org/wiki/Xiantao), Hubei Province, P.R. China. I received the B.S. and Ph.D. degrees in acoustics from [HUST](http://english.hust.edu.cn/), China in 2013, and 2018, respectively. During my Ph.D., I joined the Physical acoustics group led by Prof. [Philip L. MARSTON](https://physics.wsu.edu/people/faculty/p-marston/) as a visiting scholar from December 2016 to April 2018. I am currently working as a postdoc with Prof. [Michaël BAUDOIN](http://films-lab.univ-lille1.fr/michael/michael/Home.html) at [CNRS UMR8520 IEMN](https://www.iemn.fr/) in France. I am an Associate Member of the [Acoustical Society of America](https://acousticalsociety.org/) and a member of the [IEEE Ultrasonics, Ferroelectrics, and Frequency Control Society](https://ieee-uffc.org/).
+My name is Zhixiong GONG (龚志雄), born in January 1991, [Xiantao City](https://en.wikipedia.org/wiki/Xiantao), Hubei Province, P.R. China. I received the B.S. and Ph.D. degrees in acoustics from [HUST](http://english.hust.edu.cn/), China in 2013, and 2018, respectively. During my Ph.D., I joined the Physical acoustics group led by Prof. [Philip L. MARSTON](https://physics.wsu.edu/people/faculty/p-marston/) as a visiting scholar from December 2016 to April 2018. I am currently working as a postdoc with Prof. [Michaël BAUDOIN](http://films-lab.univ-lille1.fr/michael/michael/Home.html) at [CNRS UMR8520 IEMN](https://www.iemn.fr/) in France. I am an Associate Member of the [Acoustical Society of America](https://acousticalsociety.org/) and a member of the [IEEE Ultrasonics, Ferroelectrics, and Frequency Control Society](https://ieee-uffc.org/).
 
 What do I do?
 ======
