@@ -31,7 +31,7 @@ Funding
 Awards
 ======
 * 2020	ASA Early Career Meeting Support Award (By one of the main societies in acoustics)
-* 2017  China Scholarship Council (CSC) (to support me as a visiting scholar moving outside of China)
+* 2017  [China Scholarship Council (CSC)](https://www.csc.edu.cn/) (to support me as a visiting scholar moving outside of China)
 * 2016	HUST Postgraduate Overseas Short-term Study Program Scholarship
 
 Service and leadership
