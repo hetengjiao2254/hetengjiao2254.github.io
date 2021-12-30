@@ -41,6 +41,7 @@ Service and leadership
   * 	<b>Acoustics</b> (JASA, Ultrasonics, J. Sound Vib., Wave Motion, Shock Vib.); 
   * 	<b>Modelling and computations</b> (Applied Mathematics and Computation; Applied Mathematical Modelling; Engineering Analysis with Boundary Elements);
   * 	<b>Engineering</b> (Ocean Enginnering; Micromachines; Sensors, Applied Science, Remote Sensing) …
+* Review Editor for [Frontiers in Physics](https://www.frontiersin.org/journals/physics)
 * Associate member of ASA since 2017
 * Member of IEEE UFFC, 2021 
 
