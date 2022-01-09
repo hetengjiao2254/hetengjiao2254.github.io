@@ -18,10 +18,10 @@ Work experience
 
 Education
 ======
-* Ph.D in Acoustics Engineering, [Huazhong University of Science and Technology](http://english.hust.edu.cn/) / in Physical Acoustics, [Washington State University](https://wsu.edu/), 2018 <br />
+* 2013 - 2018: Ph.D in Acoustics Engineering, [Huazhong University of Science and Technology](http://english.hust.edu.cn/) / in Physical Acoustics, [Washington State University](https://wsu.edu/) <br />
 <b>Supervisor</b>: Prof. [Wei LI](http://english.ch.hust.edu.cn/info/1043/1218.htm) / Prof. [Philip L. MARSTON](https://physics.wsu.edu/people/faculty/p-marston/) <br />
 <b>Thesis title</b>: [Study on acoustic scattering characteristics of objects in Bessel beams and the related radiation force and torque](https://github.com/ZhixiongGONG/AcousticsX.com/blob/23c3c315e9e2ad0359b414c391a19a16d2d4d0b9/files/Thesis_Gong_2018.pdf).
-* B.S. in Naval Architecture and Ocean Engineering (Acoustics Engineering), [Huazhong University of Science and Technology](http://english.hust.edu.cn/), 2013
+* 2009 - 2013: B.S. in Naval Architecture and Ocean Engineering (Acoustics Engineering), [Huazhong University of Science and Technology](http://english.hust.edu.cn/)
 
 Funding
 ======
