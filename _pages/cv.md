@@ -93,3 +93,12 @@ Invited talks in international conferences
 * [B2] <u><b>Z. Gong</b></u>, W. Li, P.L. Marston, Potential of theoretical approach and T-matrix method for designing numerical acoustical tweezers toolbox,  [The 175th Meeting of the Acoustical Society of America](https://acousticalsociety.org/program-of-175th-meeting-of-the-acoustical-society-of-america/), 7-11 May 2018, Minneapolis (United States).
 * [B1] <u><b>Z. Gong</b></u>, W. Li, Y. Chai, Y. Zhao, Forward scattering of an acoustical Bessel beam by rigid structures using T-matrix method, [The 7th International Conference on Computational Methods](https://www.sci-en-tech.com/ICCM/index.php/iccm2016/2016), 1-4 August 2016, Berkeley (United States).
 
+Collaborators
+======
+
+* Antoine Riaud, Fudan University, [website](https://sme.fudan.edu.cn/5e/c5/c31139a351941/page.htm) [Google scholar](https://scholar.google.fr/citations?user=TrmBglsAAAAJ&hl=en)
+
+* Weiwei Cui, Tianjin University, [website](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=2961) [Google scholar](https://scholar.google.fr/citations?user=mXZQbCXP2IgC&hl=en&oi=sra)
+
+
+
