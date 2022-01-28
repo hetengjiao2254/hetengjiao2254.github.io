@@ -96,9 +96,9 @@ Invited talks in international conferences
 Collaborators
 ======
 
-* Antoine Riaud, Fudan University, [website](https://sme.fudan.edu.cn/5e/c5/c31139a351941/page.htm) [Google scholar](https://scholar.google.fr/citations?user=TrmBglsAAAAJ&hl=en)
+* <b>Antoine Riaud</b>, Fudan University, [[website]](https://sme.fudan.edu.cn/5e/c5/c31139a351941/page.htm) [[Google scholar]](https://scholar.google.fr/citations?user=TrmBglsAAAAJ&hl=en)
 
-* Weiwei Cui, Tianjin University, [website](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=2961) [Google scholar](https://scholar.google.fr/citations?user=mXZQbCXP2IgC&hl=en&oi=sra)
+* <b>Weiwei Cui</b>, Tianjin University, [[website]](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=2961) [[Google scholar]](https://scholar.google.fr/citations?user=mXZQbCXP2IgC&hl=en&oi=sra)
 
 
 
