@@ -95,6 +95,7 @@ Invited talks in international conferences
 
 Collaborators
 ======
+* <b>Glauber T. Silva</b>, Physical Acoustics Group, Universidade Federal de Alagoas, [[website]](https://if.ufal.br/pt-br/pesquisa/grupos-de-pesquisa/grupo-de-acustica-fisica) [[Google scholar]](https://scholar.google.com/citations?user=LYSMJhgAAAAJ&hl=en&oi=ao)
 
 * <b>Antoine Riaud</b>, Fudan University, [[website]](https://sme.fudan.edu.cn/5e/c5/c31139a351941/page.htm) [[Google scholar]](https://scholar.google.fr/citations?user=TrmBglsAAAAJ&hl=en)
 
