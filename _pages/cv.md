@@ -89,6 +89,8 @@ Publications
 Invited talks in international conferences
 ======
  (The invited speaker is <u>underlined</u>)
+ * [B5] <u><b>Z. Gong</b></u>, M. Baudion, Single focused-beam acoustical tweezers,  [The 182th Meeting of the Acoustical Society of America](https://acousticalsociety.org/asa-meetings/), 23-27 May 2022, Denver (United States).
+ * [B4] <u><b>M. Baudion</b></u>, R.A. Sahely, <b>Z. Gong</b>, O.B. Matar, J.-C. Gerbedoen, N. Smagin, R. Chutani, Active holographic tweezers based on spiraling interdigitated transducers,  [The 182th Meeting of the Acoustical Society of America](https://acousticalsociety.org/asa-meetings/), 23-27 May 2022, Denver (United States).
 * [B3] <u><b>Z. Gong</b></u>, M. Baudion, Small particles assembly using cylindrical Bessel vortices in two dimension, [2019 International Congress on Ultrasonics](https://kuleuvencongres.be/2019icu/home), 3-6 September 2019, Bruges (Belgium).
 * [B2] <u><b>Z. Gong</b></u>, W. Li, P.L. Marston, Potential of theoretical approach and T-matrix method for designing numerical acoustical tweezers toolbox,  [The 175th Meeting of the Acoustical Society of America](https://acousticalsociety.org/program-of-175th-meeting-of-the-acoustical-society-of-america/), 7-11 May 2018, Minneapolis (United States).
 * [B1] <u><b>Z. Gong</b></u>, W. Li, Y. Chai, Y. Zhao, Forward scattering of an acoustical Bessel beam by rigid structures using T-matrix method, [The 7th International Conference on Computational Methods](https://www.sci-en-tech.com/ICCM/index.php/iccm2016/2016), 1-4 August 2016, Berkeley (United States).
