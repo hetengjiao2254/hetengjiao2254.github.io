@@ -47,6 +47,9 @@ Service and leadership
 
 Publications
 ======
+* <u><b>2022</b></u> <br/>
+  <b>[24] Z. Gong</b>, M. Baudoin\*, Single beam acoustical tweezers based on focused beams: A numerical analysis of 2D and 3D trapping capabilities, Submitted (2022). [[ArXiv]]([https://doi.org/10.1103/PhysRevApplied.16.024034](https://arxiv.org/abs/2205.10033))<br/>
+
 * <u><b>2021</b></u> <br/>
   <b>[24] Z. Gong</b>, M. Baudoin\*, Three-Dimensional Trapping and Dynamic Axial Manipulation with Frequency-Tuned Spiraling Acoustical Tweezers: A Theoretical Study, Phys. Rev. Appl (IF: 5.1), 16: 024034 (2021). [[DOI]](https://doi.org/10.1103/PhysRevApplied.16.024034) [[PDF]](https://github.com/ZhixiongGONG/AcousticsX.com/blob/7dd45326c85e91d7a9f230ce825a79794b561679/files/Journal_14_2020PRApplied_3DAxialDisplacement.pdf)<br/>
   <b>[23] Z. Gong\*</b>, M. Baudoin, Equivalence between angular spectrum-based and multipole expansion-based formulas of the acoustic radiation force and torque, J. Acoust. Soc. Am.(IF: 1.8) 149(5): 3469-3482 (2021). [[DOI]](https://doi.org/10.1121/10.0005004) [[PDF]](https://github.com/ZhixiongGONG/AcousticsX.com/blob/6af5add20652a80ecfabb45f2b983a36a361b3d3/files/Journal_13_2021JASA_Equivalence.pdf) [[Collections]](https://asa.scitation.org/doi/full/10.1121/10.0009056) <br/> 
