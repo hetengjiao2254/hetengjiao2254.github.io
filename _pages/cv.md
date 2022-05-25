@@ -25,7 +25,7 @@ Education
 
 Funding
 ======
-* [I-SITE Talent project](http://www.isite-ulne.fr/index.php/fr/2020/01/23/accueil-de-talents/) (107K€; Rank 1/5) which supports me to work as an invited postdoctoral fellow with Prof. [Michaël BAUDOIN](http://films-lab.univ-lille1.fr/michael/michael/Home.html) and conduct experiments on acoustical tweezers.
+* [I-SITE Talent project](http://www.isite-ulne.fr/index.php/fr/2020/01/23/accueil-de-talents/) (142K€; Rank 1/5) which supports me to work as an invited postdoctoral fellow with Prof. [Michaël BAUDOIN](http://films-lab.univ-lille1.fr/michael/michael/Home.html) and conduct experiments on acoustical tweezers.
 * During my Ph.D., I get involved with several projects including the topics of acoustics and engineering mechanics as a Student leader (+5) or participant (+2) with the total funding of 373K€.
 
 Awards
