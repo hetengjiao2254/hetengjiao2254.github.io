@@ -41,7 +41,7 @@ Service and leadership
   * 	<b>Acoustics</b> (JASA, Ultrasonics, J. Sound Vib., Wave Motion, Shock Vib.); 
   * 	<b>Modelling and computations</b> (Applied Mathematics and Computation; Applied Mathematical Modelling; Engineering Analysis with Boundary Elements);
   * 	<b>Engineering</b> (Ocean Enginnering; Micromachines; Sensors, Applied Science, Remote Sensing) …
-* Guest Associate Editor for [Frontiers in Physics]([https://www.frontiersin.org/journals/physics](https://www.frontiersin.org/research-topics/45393/ultrasound-micromanipulations-and-ocean-acoustics-from-human-cells-to-marine-structures#overview))
+* Guest Associate Editor for [Frontiers in Physics]([https://www.frontiersin.org/journals/physics](https://www.frontiersin.org/research-topics/45393)
 * Member of [ASA](https://acousticalsociety.org/) since 2022 (Associate Member since 2017)
 * Member of [IEEE UFFC](https://ieee-uffc.org/), 2019, 2021 
 
