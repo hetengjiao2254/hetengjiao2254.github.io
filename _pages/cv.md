@@ -95,6 +95,7 @@ Publications
 Invited talks in international conferences
 ======
  (The invited speaker is <u>underlined</u>)
+  * [B6] <u>M. Baudion</u>, R.A. Roudy, O. B. Matar, J.-C. Gerbedoen, <b>Z. Gong</b>, A. Sivery, N. Smagin, J.-L. Thomas, A. Vlandas, Single beam selective acoustical tweezers: from acoustical vortices to focused beams,  [The 75th Annual Meeting of the American Physical Society’s Division of Fluid Dynamics (APS DFD)](https://www.apsdfd2022.org/), 20-22 November 2022, Indiana (United States).
  * [B5] <u><b>Z. Gong</b></u>, M. Baudion, Single focused-beam acoustical tweezers,  [The 182nd Meeting of the Acoustical Society of America](https://acousticalsociety.org/asa-meetings/), 23-27 May 2022, Denver (United States).
  * [B4] <u>M. Baudion</u>, R.A. Sahely, <b>Z. Gong</b>, O.B. Matar, J.-C. Gerbedoen, N. Smagin, R. Chutani, Active holographic tweezers based on spiraling interdigitated transducers,  [The 182nd Meeting of the Acoustical Society of America](https://acousticalsociety.org/asa-meetings/), 23-27 May 2022, Denver (United States).
 * [B3] <u><b>Z. Gong</b></u>, M. Baudion, Small particles assembly using cylindrical Bessel vortices in two dimension, [2019 International Congress on Ultrasonics](https://kuleuvencongres.be/2019icu/home), 3-6 September 2019, Bruges (Belgium).
