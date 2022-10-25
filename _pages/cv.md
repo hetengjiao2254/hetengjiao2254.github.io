@@ -13,7 +13,7 @@ Work experience
 ======
 * Since Dec. 2022: Associate professor
   * [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)
-* Dec. 2018 - present: Postdoc
+* Dec. 2018 - Nov. 2022: Postdoc
   * [CNRS](https://www.cnrs.fr/) UMR8520 [Institut d’Électronique de Microélectronique et de Nanotechnologie (IEMN)](https://www.iemn.fr/)
   * Duties included: To develop versatile 3D acoustical tweezers
   * Collaborator: Prof. [Michaël BAUDOIN](http://films-lab.univ-lille1.fr/michael/michael/Home.html)
@@ -38,14 +38,15 @@ Awards
 
 Service and leadership
 ======
+* Guest Associate Editor for [Frontiers in Physics](https://www.frontiersin.org/research-topics/45393)
+* Early career editor for [Nanotechnology and Precision Engineering](https://aip.scitation.org/journal/npe)
+* Member of [ASA](https://acousticalsociety.org/) since 2022 (Associate Member since 2017)
+* Member of [IEEE UFFC](https://ieee-uffc.org/), 2019, 2021 
 * More than 70 communications in peer-reviewed journals including
   * 	<b>Physics</b> (Phy. Rev. Lett., Phy. Rev. E, Phy. Rev. Applied, Phy. Rev. Fluids, Proceedings of the Royal Society A, J. Appl. Phys., Appl. Phys. Lett., Physics of Fluids, 中国物理B, 物理学报, Geophysics); 
   * 	<b>Acoustics</b> (JASA, Ultrasonics, J. Sound Vib., Wave Motion, Shock Vib.); 
   * 	<b>Modelling and computations</b> (Applied Mathematics and Computation; Applied Mathematical Modelling; Engineering Analysis with Boundary Elements);
   * 	<b>Engineering</b> (Ocean Enginnering; Micromachines; Sensors, Applied Science, Remote Sensing) …
-* Guest Associate Editor for [Frontiers in Physics](https://www.frontiersin.org/research-topics/45393)
-* Member of [ASA](https://acousticalsociety.org/) since 2022 (Associate Member since 2017)
-* Member of [IEEE UFFC](https://ieee-uffc.org/), 2019, 2021 
 
 Publications
 ======
