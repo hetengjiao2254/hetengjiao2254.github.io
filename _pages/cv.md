@@ -51,7 +51,7 @@ Service and leadership
 Publications
 ======
 * <u><b>2022</b></u> <br/>
-  <b>[25] Z. Gong</b>, M. Baudoin\*, Single beam acoustical tweezers based on focused beams: A numerical analysis of 2D and 3D trapping capabilities, Phys. Rev. Appl (IF: 5.1), 18: 044033 (2022). [[DOI]](https://doi.org/10.1103/PhysRevApplied.18.044033)] [[PDF]](https://github.com/ZhixiongGONG/AcousticsX.com/blob/3ff0af01a839f0f2ed878bad13a3e6af162525fc/files/Journal_15_2022PRApplied_FocusedBeamTweezers.pdf)<br/>
+  <b>[25] Z. Gong</b>, M. Baudoin\*, Single beam acoustical tweezers based on focused beams: A numerical analysis of 2D and 3D trapping capabilities, Phys. Rev. Appl (IF: 5.1), 18: 044033 (2022). [[DOI](https://doi.org/10.1103/PhysRevApplied.18.044033)] [[PDF]](https://github.com/ZhixiongGONG/AcousticsX.com/blob/3ff0af01a839f0f2ed878bad13a3e6af162525fc/files/Journal_15_2022PRApplied_FocusedBeamTweezers.pdf)<br/>
 
 * <u><b>2021</b></u> <br/>
   <b>[24] Z. Gong</b>, M. Baudoin\*, Three-Dimensional Trapping and Dynamic Axial Manipulation with Frequency-Tuned Spiraling Acoustical Tweezers: A Theoretical Study, Phys. Rev. Appl (IF: 5.1), 16: 024034 (2021). [[DOI]](https://doi.org/10.1103/PhysRevApplied.16.024034) [[PDF]](https://github.com/ZhixiongGONG/AcousticsX.com/blob/7dd45326c85e91d7a9f230ce825a79794b561679/files/Journal_14_2020PRApplied_3DAxialDisplacement.pdf)<br/>
