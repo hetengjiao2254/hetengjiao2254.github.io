@@ -105,6 +105,8 @@ Collaborators
 ======
 * <b>Glauber T. Silva</b>, Physical Acoustics Group, Universidade Federal de Alagoas, [[website]](https://if.ufal.br/pt-br/pesquisa/grupos-de-pesquisa/grupo-de-acustica-fisica) [[Google scholar]](https://scholar.google.com/citations?user=LYSMJhgAAAAJ&hl=en&oi=ao)
 
+* <b>Thierry Baasch</b>, Lund University, [[website]](https://portal.research.lu.se/en/persons/thierry-baasch)) [[Google scholar]](https://scholar.google.com/citations?hl=en&user=80TeFdYAAAAJ&view_op=list_works&sortby=pubdate)
+
 * <b>Antoine Riaud</b>, Fudan University, [[website]](https://sme.fudan.edu.cn/5e/c5/c31139a351941/page.htm) [[Google scholar]](https://scholar.google.fr/citations?user=TrmBglsAAAAJ&hl=en)
 
 * <b>Weiwei Cui</b>, Tianjin University, [[website]](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=2961) [[Google scholar]](https://scholar.google.fr/citations?user=mXZQbCXP2IgC&hl=en&oi=sra)
