@@ -46,7 +46,7 @@ Service and leadership
   * 	<b>Physics</b> (Phy. Rev. Lett., Phy. Rev. E, Phy. Rev. Applied, Phy. Rev. Fluids, Proceedings of the Royal Society A, J. Appl. Phys., Appl. Phys. Lett., Physics of Fluids, 中国物理B, 物理学报, Geophysics); 
   * 	<b>Acoustics</b> (JASA, Ultrasonics, J. Sound Vib., Wave Motion, Shock Vib.); 
   * 	<b>Modelling and computations</b> (Applied Mathematics and Computation; Applied Mathematical Modelling; Engineering Analysis with Boundary Elements);
-  * 	<b>Engineering</b> (Ocean Enginnering; Micromachines; Sensors, Applied Science, Remote Sensing) …
+  * 	<b>Engineering</b> (Ocean Enginnering; Communications Engineering; Micromachines; Sensors, Applied Science, Remote Sensing) …
 
 Publications
 ======
