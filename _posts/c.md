@@ -1,1 +1,19 @@
-ddd
+---
+title: 'Websites of sound/acoustics and some physics'
+date: 2021-12-23
+permalink: 
+tags:
+  - Websites
+  - Societies and Association
+  - Labs and Scholors
+---
+
+* [Explore Sound!](https://exploresound.org/)
+* [UK Fluids Network-Acoustofluidics](https://fluids.ac.uk/sig/Acoustofluidics#sig-name)
+* [Acoustics Program Directory](https://exploresound.org/business-directory-2/?wpbdp_view=all_listings)
+* [中国物理学会期刊网讲座列表](http://www.cpsjournals.cn/index/news/list/jiangzuo)
+* [iCANx](http://www.ican-x.com/)
+* [子鱼说声学](https://www.zhihu.com/column/c_165545415)
+* [YOUTUBE Focused Ultrasound Foundation](https://www.youtube.com/user/FUSFoundation)
+* [YOUTUBE Focused Ultrasound Foundation - Symposium Research Talks](https://www.youtube.com/channel/UCWhP2WEsARYhA0TMxWNDneg)
+* ...
