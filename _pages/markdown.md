@@ -10,7 +10,7 @@ redirect_from:
 ## Dr. Zhixiong GONG
 
 
-800 Dongchuan RD. Minhang District <br />
+800 Dongchuan Rd. Minhang District <br />
 200240, Shanghai, China <br />
 <p style="color:rgb(41, 128, 185);">Email: <u>zhixiong.gong@sjtu.edu.cn</u></p><br />
 
