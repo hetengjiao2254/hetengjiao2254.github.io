@@ -14,11 +14,6 @@ What do I do?
 ======
 My present project aims at developing versatile acoustical tweezers (ATs). My research interests lie in physical acoustics, ultrasound, and ocean acoustics, especially including <b>acoustical tweezers</b>, <b>acoustic imaging</b>, and <b>vibration and noise control</b>.
 
-Motto
-======
-<center>"Where your fear is, there your task is." ---<cite>Carl Jung</cite></center>
-
-
 <p></p>
 <br/><br/>
 
