@@ -16,7 +16,7 @@ Work experience
 * Dec. 2018 - Nov. 2022: Postdoc
   * [CNRS](https://www.cnrs.fr/) UMR8520 [Institut d’Électronique de Microélectronique et de Nanotechnologie (IEMN)](https://www.iemn.fr/)
   * Duties included: To develop versatile 3D acoustical tweezers
-  * Collaborator: Prof. [Michaël BAUDOIN](http://films-lab.univ-lille1.fr/michael/michael/Home.html)
+  * Collaborator: Prof. [Michaël BAUDOIN](https://pro.univ-lille.fr/en/michael-baudoin)
 
 Education
 ======
