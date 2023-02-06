@@ -7,4 +7,4 @@ This file is to make some notes for me to edit the sources for the static websit
 5. If you need to change the BOLD name in the individual page, go to the folder "page", and edit the .html fiels, e.g., "portfolio.html".
 6. "Links" use the folder "posts".
 7. "CONTACT"is in the markdown.md file in the folder of "pages"
-8. 
+8. 修改网页整体布局，编辑“data”文件夹中的"Navigation"
