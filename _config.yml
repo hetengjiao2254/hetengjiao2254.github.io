@@ -11,7 +11,7 @@ title                    : "AcousticsX"
 title_separator          : "-"
 name                     : &name "Zhixiong GONG"
 description              : &description "personal description"
-url                      : https://zhixionggong.github.io/AcousticsX.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://naoce.sjtu.edu.cn/teachers/12344.html # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhixiong GONG"
-  avatar           : "gong_hunsha2PNG.png"
+  avatar           : "IMG_0125 final_头像大.jpg"
   bio              : "Associate professor of physical and engineering acoustics"
   location         : "Shanghai"
   employer         : "Shanghai Jiao Tong University"
