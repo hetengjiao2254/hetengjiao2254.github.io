@@ -27,11 +27,13 @@ Education
 
 Funding
 ======
-* [I-SITE Talent project](http://www.isite-ulne.fr/index.php/fr/2020/01/23/accueil-de-talents/) (142K€; Rank 1/5) which supports me to work as an invited postdoctoral fellow with Prof. Michaël BAUDOIN and conduct experiments on acoustical tweezers.
-* During my Ph.D., I get involved with several projects including the topics of acoustics and engineering mechanics as a Student leader (+5) or participant (+2) with the total funding of 373K€.
+* The National Natural Science Foundation of China， 2024-2026
+* Startup funding from Shanghai Jiao Tong University, 2023-2025
+* [I-SITE Talent project](http://www.isite-ulne.fr/index.php/fr/2020/01/23/accueil-de-talents/), 2020-2022.
 
 Awards
 ======
+* 2023  Xiaomi Young Scholars
 * 2020	ASA Early Career Meeting Support Award (By one of the main societies in acoustics)
 * 2017  [China Scholarship Council (CSC)](https://www.csc.edu.cn/) (to support me as a visiting scholar moving outside of China)
 * 2016	HUST Postgraduate Overseas Short-term Study Program Scholarship
@@ -96,7 +98,7 @@ Publications
 Invited talks in international conferences
 ======
  (The invited speaker is <u>underlined</u>)
-  * [B6] <u>M. Baudion</u>, R.A. Sahely, O. B. Matar, J.-C. Gerbedoen, <b>Z. Gong</b>, A. Sivery, N. Smagin, J.-L. Thomas, A. Vlandas, Single beam selective acoustical tweezers: from acoustical vortices to focused beams,  [The 75th Annual Meeting of the American Physical Society’s Division of Fluid Dynamics (APS DFD)](https://www.apsdfd2022.org/), 20-22 November 2022, Indiana (United States).
+   * [B6] <u>M. Baudion</u>, R.A. Sahely, O. B. Matar, J.-C. Gerbedoen, <b>Z. Gong</b>, A. Sivery, N. Smagin, J.-L. Thomas, A. Vlandas, Single beam selective acoustical tweezers: from acoustical vortices to focused beams,  [The 75th Annual Meeting of the American Physical Society’s Division of Fluid Dynamics (APS DFD)](https://www.apsdfd2022.org/), 20-22 November 2022, Indiana (United States).
  * [B5] <u><b>Z. Gong</b></u>, M. Baudion, Single focused-beam acoustical tweezers,  [The 182nd Meeting of the Acoustical Society of America](https://acousticalsociety.org/asa-meetings/), 23-27 May 2022, Denver (United States).
  * [B4] <u>M. Baudion</u>, R.A. Sahely, <b>Z. Gong</b>, O.B. Matar, J.-C. Gerbedoen, N. Smagin, R. Chutani, Active holographic tweezers based on spiraling interdigitated transducers,  [The 182nd Meeting of the Acoustical Society of America](https://acousticalsociety.org/asa-meetings/), 23-27 May 2022, Denver (United States).
 * [B3] <u><b>Z. Gong</b></u>, M. Baudion, Small particles assembly using cylindrical Bessel vortices in two dimension, [2019 International Congress on Ultrasonics](https://kuleuvencongres.be/2019icu/home), 3-6 September 2019, Bruges (Belgium).
