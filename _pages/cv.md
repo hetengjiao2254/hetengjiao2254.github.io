@@ -20,7 +20,7 @@ Work experience
 
 Education
 ======
-* Sep. 2013 - Sep. 2018: Ph.D in Acoustics Engineering, [Huazhong University of Science and Technology](http://english.hust.edu.cn/) / in Physical Acoustics, [Washington State University](https://wsu.edu/) <br />
+* Sep. 2013 - Sep. 2018: Ph.D. in Acoustics Engineering, [Huazhong University of Science and Technology](http://english.hust.edu.cn/) / in Physical Acoustics, [Washington State University](https://wsu.edu/) <br />
 <b>Supervisors</b>: Prof. [Wei LI](http://english.ch.hust.edu.cn/info/1043/1218.htm) / Prof. [Philip L. MARSTON](https://physics.wsu.edu/people/faculty/p-marston/) <br />
 <b>Thesis title</b>: [Study on acoustic scattering characteristics of objects in Bessel beams and the related radiation force and torque](https://github.com/ZhixiongGONG/AcousticsX.com/blob/23c3c315e9e2ad0359b414c391a19a16d2d4d0b9/files/Thesis_Gong_2018.pdf).
 * Sep. 2009 - Jun. 2013: B.S. in Naval Architecture and Ocean Engineering (Acoustics Engineering), [Huazhong University of Science and Technology](http://english.hust.edu.cn/)
@@ -54,6 +54,9 @@ Service and leadership
 
 Publications
 ======
+* <u><b>2023</b></u> <br/>
+  <b>[26] Z. Gong</b>, F. Cai, W. Li, T. Baasch, eds. (2023)., Ultrasound Micromanipulations and Ocean Acoustics: From Human Cells to Marine Structures, Lausanne: Frontiers Media SA. ISBN 978-2-8325-2976-8. [[DOI](10.3389/978-2-8325-2976-8)]<br/>
+
 * <u><b>2022</b></u> <br/>
   <b>[25] Z. Gong</b>, M. Baudoin\*, Single beam acoustical tweezers based on focused beams: A numerical analysis of 2D and 3D trapping capabilities, Phys. Rev. Appl (IF: 5.1), 18: 044033 (2022). [[DOI](https://doi.org/10.1103/PhysRevApplied.18.044033)] [[PDF]](https://github.com/ZhixiongGONG/AcousticsX.com/blob/3ff0af01a839f0f2ed878bad13a3e6af162525fc/files/Journal_15_2022PRApplied_FocusedBeamTweezers.pdf)<br/>
 
@@ -96,9 +99,11 @@ Publications
   <b>[01]</b> W. Li, J. Li, <b>Z. Gong\*</b>, Study on underwater acoustic scattering of a Bessel beam by rigid objects with arbitrary shapes, Acta. Phys. Sin. (IF: 0.8), 64: 154305 (2015). [[DOI]](https://wulixb.iphy.ac.cn/article/doi/10.7498/aps.64.154305) [[PDF]](https://github.com/ZhixiongGONG/AcousticsX.com/blob/97b5665ef2e6ca6618018971a4f8070f8a1541ee/files/Journal_01_2015APS_BesselSpheroid.pdf)
 
   
-Invited talks in international conferences
+Invited talks at academic conferences/forums
 ======
  (The invited speaker is <u>underlined</u>)
+   * [B8] <b>Z. Gong</b>, 高次谐波影响下Eckart声流理论, 操控与传感学术研讨会, October 23, 2023, Shenzhen (China).
+   * [B7] <b>Z. Gong</b>, 声涡旋散射、操控水中微粒和微流体, 水声技术重点实验室2023年海洋信息论坛，第十三期, September 22, 2023, Harbin (China).
    * [B6] <u>M. Baudion</u>, R.A. Sahely, O. B. Matar, J.-C. Gerbedoen, <b>Z. Gong</b>, A. Sivery, N. Smagin, J.-L. Thomas, A. Vlandas, Single beam selective acoustical tweezers: from acoustical vortices to focused beams,  [The 75th Annual Meeting of the American Physical Society’s Division of Fluid Dynamics (APS DFD)](https://www.apsdfd2022.org/), 20-22 November 2022, Indiana (United States).
  * [B5] <u><b>Z. Gong</b></u>, M. Baudion, Single focused-beam acoustical tweezers,  [The 182nd Meeting of the Acoustical Society of America](https://acousticalsociety.org/asa-meetings/), 23-27 May 2022, Denver (United States).
  * [B4] <u>M. Baudion</u>, R.A. Sahely, <b>Z. Gong</b>, O.B. Matar, J.-C. Gerbedoen, N. Smagin, R. Chutani, Active holographic tweezers based on spiraling interdigitated transducers,  [The 182nd Meeting of the Acoustical Society of America](https://acousticalsociety.org/asa-meetings/), 23-27 May 2022, Denver (United States).
@@ -115,6 +120,8 @@ Collaborators
 * <b>Antoine Riaud</b>, Fudan University, [[website]](https://sme.fudan.edu.cn/5e/c5/c31139a351941/page.htm) [[Google scholar]](https://scholar.google.fr/citations?user=TrmBglsAAAAJ&hl=en)
 
 * <b>Weiwei Cui</b>, Tianjin University, [[website]](http://tj.teacher.360eol.com/teacherBasic/preview?teacherId=2961) [[Google scholar]](https://scholar.google.fr/citations?user=mXZQbCXP2IgC&hl=en&oi=sra)
+
+* <b>Zhichao Ma</b>, Shanghai Jiao Tong University, [[website]](https://imr.sjtu.edu.cn/sz_teachers/3771.html) [[Google scholar]](https://scholar.google.com/citations?hl=en&user=F3msGUIAAAAJ&view_op=list_works&sortby=pubdate)
 
 
 
