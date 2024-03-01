@@ -47,7 +47,7 @@ Service and leadership
 * Member of [the Acoustical Society of China](https://www.aschina.org.cn/) since 2022 (Student Member since 2017)
 * Member of [IEEE UFFC](https://ieee-uffc.org/), 2019, 2021 
 * More than 70 communications in peer-reviewed journals including
-  * 	<b>Physics</b> (Phy. Rev. Lett., Phy. Rev. E, Phy. Rev. Applied, Phy. Rev. Fluids, Proceedings of the Royal Society A, J. Appl. Phys., Appl. Phys. Lett., Physics of Fluids, 中国物理B, 物理学报, Geophysics); 
+  * 	<b>Physics</b> (Phy. Rev. Lett., Phy. Rev. E, Phy. Rev. Applied, Phy. Rev. Fluids, Phy. Rev. A, Proceedings of the Royal Society A, J. Appl. Phys., Appl. Phys. Lett., Physics of Fluids, 中国物理B, 物理学报, Geophysics); 
   * 	<b>Acoustics</b> (JASA, Ultrasonics, J. Sound Vib., Wave Motion, Shock Vib.); 
   * 	<b>Modelling and computations</b> (Applied Mathematics and Computation; Applied Mathematical Modelling; Engineering Analysis with Boundary Elements);
   * 	<b>Engineering</b> (Ocean Enginnering; Communications Engineering; Micromachines; Sensors, Applied Science, Remote Sensing) …
