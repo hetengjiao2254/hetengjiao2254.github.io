@@ -29,10 +29,11 @@ Funding
 ======
 * The National Natural Science Foundation of China， 2024-2026
 * Startup funding from Shanghai Jiao Tong University, 2023-2025
-* [I-SITE Talent project](http://www.isite-ulne.fr/index.php/fr/2020/01/23/accueil-de-talents/), 2020-2022.
+* France [I-SITE Talent project](http://www.isite-ulne.fr/index.php/fr/2020/01/23/accueil-de-talents/), 2020-2022.
 
 Awards
 ======
+* 2023 The National Natural Science Fund for Excellent Young Scientists
 * 2023  Xiaomi Young Scholars
 * 2020	ASA Early Career Meeting Support Award (By one of the main societies in acoustics)
 * 2017  [China Scholarship Council (CSC)](https://www.csc.edu.cn/) (to support me as a visiting scholar moving outside of China)
