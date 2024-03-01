@@ -12,7 +12,7 @@ redirect_from:
 Work experience
 ======
 * Since Dec. 2022: Associate professor
-  * [Shanghai Jiao Tong University]([https://en.sjtu.edu.cn/](https://en.naoce.sjtu.edu.cn/teachers/GongZhixiong.html))
+  * [Shanghai Jiao Tong University](https://en.naoce.sjtu.edu.cn/teachers/GongZhixiong.html).
 * Dec. 2018 - Nov. 2022: Postdoc
   * [CNRS](https://www.cnrs.fr/) UMR8520 [Institut d’Électronique de Microélectronique et de Nanotechnologie (IEMN)](https://www.iemn.fr/)
   * Duties included: To develop versatile 3D acoustical tweezers
