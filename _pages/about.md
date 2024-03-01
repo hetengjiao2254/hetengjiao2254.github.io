@@ -12,7 +12,7 @@ My name is Zhixiong GONG (龚志雄), an associate professor of physical and eng
 
 What do I do?
 ======
-My present project aims at developing versatile acoustical tweezers (ATs). My research interests lie in physical acoustics, ultrasound, and ocean acoustics, especially including <b>acoustical tweezers</b>, <b>acoustic imaging</b>, and <b>vibration and noise control</b>.
+My present project aims at developing versatile acoustical tweezers (ATs). My research interests lie in physical acoustics, ultrasound, and ocean acoustics, especially including <b>acoustic manipulation of microparticles and microfluidics</b> and <b>bubble acoustics</b>.
 
 <p></p>
 <br/><br/>
