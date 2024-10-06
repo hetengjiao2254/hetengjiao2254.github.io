@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "AcousticsX"
 title_separator          : "-"
-name                     : &name "Zhixiong GONG"
+name                     : &name "Tengjiao HE"
 description              : &description "personal description"
-url                      : https://zhixionggong.github.io/AcousticsX.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hetengjiao22547.github.io/AcousticsX.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhixiong GONG"
+  name             : "Tengjiao HE"
   avatar           : "SmallPNG final.png"
-  bio              : "Associate professor of physical and engineering acoustics"
+  bio              : "Assistant research fellow of computational oceanic acoustics"
   location         : "Shanghai"
   employer         : "Shanghai Jiao Tong University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/zhixiong.gong.2/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=08PwMK8AAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "zhixiong.gong@sjtu.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Zhixiong-Gong-2"
+  email            : "hetengjiao@sjtu.edu.cn"
+  researchgate     :  "https://www.researchgate.net/profile/Tengjiao-He-3"
   publons          :  "https://publons.com/researcher/1750705/zhixiong-gong/"
   bitbucket        :
   codepen          :
